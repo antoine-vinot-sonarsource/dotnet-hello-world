@@ -1,0 +1,7 @@
+#TODO This is a dummy file
+version: 1.0
+services:
+  application:
+    name: simple-app
+    environment:
+      - APP_ENV=development
